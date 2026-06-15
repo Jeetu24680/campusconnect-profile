@@ -1,0 +1,21 @@
+[
+  {
+    "id": "u001",
+    "name": "Alex Mercer",
+    "title": "Computer Science, Class of 2025",
+    "university": "Tech University",
+    "bio": "Full-stack developer passionate about building scalable web applications. Always looking for the next hackathon and eager to help underclassmen navigate CS careers.",
+    "skills": [
+      "React",
+      "Node.js",
+      "UI/UX",
+      "Python",
+      "AWS"
+    ],
+    "reputation": {
+      "mentorships": 12,
+      "teamsLed": 5,
+      "hackathons": 3
+    }
+  }
+]
